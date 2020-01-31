@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/nbareact/static/js/main.aeb692ed.chunk.js",
-    "main.js.map": "/nbareact/static/js/main.aeb692ed.chunk.js.map",
+    "main.js": "/nbareact/static/js/main.5a41005a.chunk.js",
+    "main.js.map": "/nbareact/static/js/main.5a41005a.chunk.js.map",
     "runtime-main.js": "/nbareact/static/js/runtime-main.124a649a.js",
     "runtime-main.js.map": "/nbareact/static/js/runtime-main.124a649a.js.map",
     "static/js/2.5b99958e.chunk.js": "/nbareact/static/js/2.5b99958e.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/3.a8a487fa.chunk.js": "/nbareact/static/js/3.a8a487fa.chunk.js",
     "static/js/3.a8a487fa.chunk.js.map": "/nbareact/static/js/3.a8a487fa.chunk.js.map",
     "index.html": "/nbareact/index.html",
-    "precache-manifest.dc1551ba90ed08b421e92b24094cc7a9.js": "/nbareact/precache-manifest.dc1551ba90ed08b421e92b24094cc7a9.js",
+    "precache-manifest.773a466bb85d9099c2a9d7c9af144a33.js": "/nbareact/precache-manifest.773a466bb85d9099c2a9d7c9af144a33.js",
     "service-worker.js": "/nbareact/service-worker.js",
     "static/js/2.5b99958e.chunk.js.LICENSE": "/nbareact/static/js/2.5b99958e.chunk.js.LICENSE",
     "static/media/kobe1.jpg": "/nbareact/static/media/kobe1.a71d303b.jpg",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.124a649a.js",
     "static/js/2.5b99958e.chunk.js",
-    "static/js/main.aeb692ed.chunk.js"
+    "static/js/main.5a41005a.chunk.js"
   ]
 }
