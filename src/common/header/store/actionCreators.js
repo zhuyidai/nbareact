@@ -26,7 +26,7 @@ export const pageChange = page => ({
 export const getlist = () => {
   return dispatch => {
     axios
-      .get("/api/headerList.json")
+      .get("/nbareact/api/headerList.json")
       .then(res => {
         const data = res.data;
         dispatch(change_list(data.data));
