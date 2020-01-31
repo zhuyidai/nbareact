@@ -9,7 +9,7 @@ const changedetail = (title, content) => ({
 export const getdetail = id => {
   return dispatch => {
     axios
-      .get("/api/detail.json")
+      .get("nbareact/api/detail.json")
       .then(res => {
         const result = res.data.data[id - 1];
         dispatch(changedetail(result.title, result.content));
