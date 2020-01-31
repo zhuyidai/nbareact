@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 4,
+      "title": "Mr. Untouchable",
+      "imgurl": "https://cdn.nba.net/assets/logos/teams/secondary/web/BOS.svg",
+      "news": "The Wolves' plan is to continue building around cornstone Karl-Anthony Towns."
+    },
+    {
+      "id": 5,
+      "title": "Mr. Untouchable",
+      "imgurl": "https://cdn.nba.net/assets/logos/teams/secondary/web/BOS.svg",
+      "news": "The Wolves' plan is to continue building around cornstone Karl-Anthony Towns."
+    },
+    {
+      "id": 6,
+      "title": "Hello, super",
+      "imgurl": "https://cdn.nba.net/assets/logos/teams/secondary/web/BOS.svg",
+      "news": "Everyone"
+    }
+  ]
+}

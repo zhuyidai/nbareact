@@ -1,0 +1,164 @@
+{
+  "success": true,
+  "data": {
+    "topiclist": [
+      {
+        "id": 1,
+        "title": "Boston Celtics",
+        "imgurl": "https://cdn.nba.net/assets/logos/teams/secondary/web/BOS.svg"
+      },
+      {
+        "id": 2,
+        "title": "Chicago Bulls",
+        "imgurl": "https://www.nba.com/assets/logos/teams/primary/web/CHI.svg"
+      },
+      {
+        "id": 3,
+        "title": "Cleveland Cavaliers",
+        "imgurl": "https://www.nba.com/assets/logos/teams/primary/web/CLE.svg"
+      },
+      {
+        "id": 4,
+        "title": "Golden State Warriors",
+        "imgurl": "https://www.nba.com/assets/logos/teams/primary/web/GSW.svg"
+      },
+      {
+        "id": 5,
+        "title": "Los Angeles Lakers",
+        "imgurl": "https://www.nba.com/assets/logos/teams/primary/web/LAL.svg"
+      },
+      {
+        "id": 6,
+        "title": "New York Knicks",
+        "imgurl": "https://www.nba.com/assets/logos/teams/primary/web/NYK.svg"
+      },
+      {
+        "id": 7,
+        "title": "Milwaukee Bucks",
+        "imgurl": "https://www.nba.com/assets/logos/teams/primary/web/MIL.svg"
+      },
+      {
+        "id": 8,
+        "title": "Toronto Raptors",
+        "imgurl": "https://www.nba.com/assets/logos/teams/primary/web/TOR.svg"
+      }
+    ],
+    "newslist": [
+      {
+        "id": 1,
+        "title": "Kobe Bryant died in a helicopter crash",
+        "imgurl": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/98224ac3-aedc-44d4-9ad2-a6b8b0c06e2c.jpg",
+        "news": "Basketball legend Kobe Bryant, 41, and his 13-year-old daughter Gianna Maria Onore Bryant were among nine people killed in a helicopter crash in Calabasas, California, on Sunday.."
+      },
+      {
+        "id": 2,
+        "title": "NBA All-Star Game 2020: When is the NBA All-Star Draft?",
+        "imgurl": "",
+        "news": "The captains and starters have been announced for the 2020 NBA All-Star Game and the third-annual All-Star Draft is right around the corner! So when is the 2020 NBA All-Star Draft?"
+      },
+      {
+        "id": 3,
+        "title": "IBAKA made new history",
+        "imgurl": "",
+        "news": "Toronto Raptors forward Serge Ibaka becomes first player in NBA history to record 500 3-pointers, 1,500 blocks"
+      },
+      {
+        "id": 4,
+        "title": "",
+        "imgurl": "",
+        "news": ""
+      },
+      {
+        "id": 5,
+        "title": "",
+        "imgurl": "",
+        "news": ""
+      },
+      {
+        "id": 6,
+        "title": "",
+        "imgurl": "",
+        "news": ""
+      }
+    ],
+    "recommandation": [
+      {
+        "id": "1",
+        "imgurl": "https://cdn.nba.net/assets/nbatv/games/matchup_tiles/1610612758_1610612741.png",
+        "words": "Kings Vs Bulls"
+      },
+      {
+        "id": "2",
+        "imgurl": "https://cdn.nba.net/assets/nbatv/games/matchup_tiles/1610612763_1610612765.png",
+        "words": "Grizzlies Vs Pistons"
+      },
+      {
+        "id": "3",
+        "imgurl": "https://cdn.nba.net/assets/nbatv/games/matchup_tiles/1610612745_1610612750.png",
+        "words": "Rockets Vs Timberwolves"
+      },
+      {
+        "id": "4",
+        "imgurl": "https://cdn.nba.net/assets/nbatv/games/matchup_tiles/1610612737_1610612760.png",
+        "words": "Hawks Vs Thunder"
+      },
+      {
+        "id": "5",
+        "imgurl": "https://cdn.nba.net/assets/nbatv/games/matchup_tiles/1610612756_1610612759.png",
+        "words": "Suns Vs Spurs"
+      }
+    ],
+    "westteams": [
+      {
+        "id": 1,
+        "teamname": "1.Milwaukee Bucks",
+        "wins": "41-6"
+      },
+      {
+        "id": 2,
+        "teamname": "2.Los Angeles Lakers",
+        "wins": "20-1"
+      },
+      {
+        "id": 3,
+        "teamname": "3. LA Clippers",
+        "wins": "33-14"
+      },
+      {
+        "id": 4,
+        "teamname": "4.Toronto Raptors",
+        "wins": "33-14"
+      },
+      {
+        "id": 5,
+        "teamname": "5.Denver Nuggets",
+        "wins": "32-15"
+      },
+      {
+        "id": 6,
+        "teamname": "6.Miami Heat",
+        "wins": "32-15"
+      },
+      {
+        "id": 7,
+        "teamname": "7.Utah Jazz",
+        "wins": "32-15"
+      },
+      {
+        "id": 8,
+        "teamname": "8.Boston Celtics",
+        "wins": "31-17"
+      },
+      {
+        "id": 9,
+        "teamname": "9.Indiana Pacers",
+        "wins": "31-17"
+      },
+      {
+        "id": 10,
+        "teamname": "10.HPhiladelphia 76ers",
+        "wins": "31-17"
+      }
+    ]
+  }
+}
