@@ -11,7 +11,7 @@ const changehomedata = result => ({
 });
 export const gethomeinfo = () => {
   return dispatch => {
-    axios.get("/api/home.json").then(res => {
+    axios.get("nbareact/api/home.json").then(res => {
       const result = res.data.data;
       dispatch(changehomedata(result));
     });
@@ -24,7 +24,7 @@ const loadmoreinfo = list => ({
 });
 export const getmoreinfo = page => {
   return dispatch => {
-    axios.get("/api/homelist.json?page=" + page).then(res => {
+    axios.get("nbareact/api/homelist.json?page=" + page).then(res => {
       const result = res.data.data;
       dispatch(loadmoreinfo(result));
     });
