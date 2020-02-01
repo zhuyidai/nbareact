@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8e765e481c05e41519415fa92c4ca08",
+    "revision": "a527797fc661de8b70abacab64b82979",
     "url": "/nbareact/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nbareact/static/js/3.a8a487fa.chunk.js"
   },
   {
-    "revision": "d500322b344c99cfc7e6",
-    "url": "/nbareact/static/js/main.111139b8.chunk.js"
+    "revision": "16313b3f9c7165282f04",
+    "url": "/nbareact/static/js/main.50797e9f.chunk.js"
   },
   {
     "revision": "4a9f33a4f746c6e835a2",
